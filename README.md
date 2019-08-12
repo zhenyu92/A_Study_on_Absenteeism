@@ -47,6 +47,13 @@ A real-life example centered around – the ‘Absenteeism at Work’ was introd
     5 Save the Mode
     ```
 3. Run and execute the [IPython file for integrating Python & MySQL](https://github.com/zhenyu92/A_Study_on_Absenteeism/blob/master/Absenteeism%20-%20Integration.ipynb).
+    ```
+    1 Import Modules
+    2 Link to SQL Database
+    3 Creating the Insert Statement
+    4 Execute it
+    ```
+Screenshot of the MySQL Dataset: 
 ![alt text](https://github.com/zhenyu92/A_Study_on_Absenteeism/blob/master/SQL%20Database.JPG "MySQL Dataset")
 4. Extract the dataset from `MySQL` as [CSV](https://github.com/zhenyu92/A_Study_on_Absenteeism/blob/master/Absenteeism_predictions.csv).
 5. Import & Tuning in `Tableau 2019`.

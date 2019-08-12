@@ -50,8 +50,8 @@ A real-life example centered around – the ‘Absenteeism at Work’ was introd
     ```
     1 Import Modules
     2 Link to SQL Database
-    3 Creating the Insert Statement
-    4 Execute it
+    3 Create the Insert Statement
+    4 Execute
     ```
 Screenshot of the MySQL Dataset: 
 ![alt text](https://github.com/zhenyu92/A_Study_on_Absenteeism/blob/master/SQL%20Database.JPG "MySQL Dataset")
